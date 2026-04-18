@@ -7,7 +7,7 @@ Why the HYG TDA Three-Axis Framework Works"**
 
 Keishi Takagi (2026) — Independent Researcher
 
-Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXXXX
+Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6453878
 
 ---
 
@@ -104,5 +104,5 @@ MIT License — free to use and modify with attribution.
 ```
 Takagi, K. (2026). Topological Structure Changes in Credit Markets Lead
 Equity Returns: Why the HYG TDA Three-Axis Framework Works.
-SSRN Working Paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXXXX
+SSRN Working Paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6453878
 ```
